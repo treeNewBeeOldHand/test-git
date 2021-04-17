@@ -3,5 +3,3 @@ other  git stash
 
 
 git stash
-git stash
-git stash
