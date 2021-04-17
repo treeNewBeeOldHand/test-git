@@ -2,4 +2,8 @@
 other  git stash
 
 
+<<<<<<< Updated upstream
 git stash
+=======
+git stash
+>>>>>>> Stashed changes
